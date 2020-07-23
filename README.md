@@ -10,7 +10,7 @@ Noisy Stenotic Flow
 
 CFD | Mean | Standard Deviation
 :-----:|:------:|:-----:
-<img height="200" src="Figures/softcfdu_noise10.png?raw=true"> | <img height="200" src="Figures/backup_softuNN_mean_noise10.png?raw=true"> | <img height="200" src="Figures/softuNN_std_noise10.png?raw=true">
+<img height="100" src="Figures/softcfdu_noise10.png?raw=true"> | <img height="100" src="Figures/backup_softuNN_mean_noise10.png?raw=true"> | <img height="100" src="Figures/softuNN_std_noise10.png?raw=true">
 
 Noisy Junction Flow
 :-----:
